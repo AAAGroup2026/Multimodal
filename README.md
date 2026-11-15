@@ -114,7 +114,7 @@ tests/                         CPU regression and integration tests
 python -m unittest discover -s tests -v
 ```
 
-Tests use synthetic tensors and data, without downloading BERT or datasets.
+Tests use synthetic tensors and data, with downloading BERT or datasets.
 
 ## Acknowledgments
 
