@@ -1,5 +1,4 @@
 # RIMoE
-![Uploading FIG.png…]()
 
 Bayesian inference over multimodal interaction structures for sentiment
 regression on CMU-MOSI and CMU-MOSEI.
